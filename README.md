@@ -1,9 +1,5 @@
 ![typing]
 
-<a href="https://romysaputrasihananda.github.io">
-<iframe src="https://romysaputrasihananda.github.io" height="405" width="720" style="border: 1px solid #0F172A;" allowfullscreen></iframe>
-</a>
-
 | ![stats] | ![language] |
 | -------- | ----------- |
 
