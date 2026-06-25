@@ -1,4 +1,4 @@
-`masih belajar` — 2023 sampai sekarang, belum kelar juga.
+`masih belajar` — 2019 sampai sekarang, belum kelar juga.
 
 frontend, backend, data engineering, web3 —
 tapi tetap nanya AI buat hal yang sama tiap hari.
